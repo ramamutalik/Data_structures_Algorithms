@@ -24,4 +24,21 @@
 >     - Pair Star
 >     - Tower of Hanoi
 > - Recursion 2
->     - 
+>     - Replace Character Recursively
+>     - Remove Duplicates Recursively
+>     - Merge Sort Code
+>     - Quick Sort Code
+>     - Return Keypad Code
+>     - Print Keypad Combinations Code
+>     - Check AB
+>     - Staircase
+>     - Binary Search(Recursive)
+>     - Return subset of an array
+>     - Print Subsets of Array
+>     - Return subsets sum to K
+>     - Print Subset Sum to K
+>     - Return all codes - String
+>     - Print all Codes - String
+>     - Return Permutations - String
+>     - Print Permutations
+> - a
