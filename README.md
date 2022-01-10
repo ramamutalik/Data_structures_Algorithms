@@ -17,3 +17,11 @@
 >     - Geometric Sum
 >     - Check Palindrome (recursive)
 >     - Sum of digits (recursive)
+> - Recursion 1b
+>     - Replace pi (recursive)
+>     - Remove X
+>     - String to Integer
+>     - Pair Star
+>     - Tower of Hanoi
+> - Recursion 2
+>     - 
