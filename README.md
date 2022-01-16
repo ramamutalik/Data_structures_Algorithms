@@ -61,3 +61,8 @@
 >     - Longest Consecutive Sequence
 >     - Pairs with difference K(need to do)
 >     - Longest subset zero sum
+> - Tries and Huffman Coding
+>     - Code : Search in Tries
+>     - Pattern Matching
+>     - Palindrome Pair
+>     - Auto complete
