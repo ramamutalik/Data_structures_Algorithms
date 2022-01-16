@@ -53,4 +53,11 @@
 >     - Merge K sorted arrays
 >     - Running Median
 >     - Buy the ticket
->     
+> - Hashmaps
+>     - Code : Maximum Frequency Number
+>     - Code : Print Intersection
+>     - Code : Pair Sum to 0
+>     - Extract Unique characters
+>     - Longest Consecutive Sequence
+>     - Pairs with difference K(need to do)
+>     - Longest subset zero sum
