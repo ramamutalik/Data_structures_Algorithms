@@ -44,3 +44,13 @@
 > - a
 > - Priority Queues
 >     - Code : Remove Min
+>     - Code : Max Priority Queue
+>     - Code : In-place heap sort
+>     - Code : K smallest Elements
+>     - Code : K largest elements
+>     - Check Max-Heap
+>     - Kth largest element
+>     - Merge K sorted arrays
+>     - Running Median
+>     - Buy the ticket
+>     
